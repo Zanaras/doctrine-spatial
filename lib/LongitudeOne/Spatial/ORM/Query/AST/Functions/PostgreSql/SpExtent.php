@@ -21,7 +21,7 @@
  * SOFTWARE.
  */
 
-namespace App\ORM\Query\AST\Functions\PostgreSql;
+namespace LongitudeOne\Spatial\ORM\Query\AST\Functions\PostgreSql;
 
 use LongitudeOne\Spatial\ORM\Query\AST\Functions\AbstractSpatialDQLFunction;
 
